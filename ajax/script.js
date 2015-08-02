@@ -13,3 +13,8 @@ request.open('GET','data.txt',false); // Async
 request.send();
 document.write(JSON.stringify(request));
 console.log(request);
+
+// Example post methods.
+var post = new XMLHttpRequest();
+post.open('POST','url',true)
+post.send('fname=Miss&lname=Mouws');
