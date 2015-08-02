@@ -1,5 +1,7 @@
 #Javascript
 
+![https://raw.githubusercontent.com/0xgi/Docs/master/images/certificate-js-function.png]('Javscript function')
+
 1. Function `Invocation patterns`
 + Four ways of invoking functions
 	- Functions
