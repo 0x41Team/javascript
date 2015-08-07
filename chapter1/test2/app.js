@@ -1,5 +1,5 @@
 
-var ray = require("./ray");
+var ray = require("./ray/index");
 
 prefix = "New value: ";
 
